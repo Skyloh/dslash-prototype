@@ -19,18 +19,7 @@
                 {
                     "name": "",
                     "id": "752dc9c7-168e-444c-8411-bda06236279c",
-                    "path": "<Mouse>/delta",
-                    "interactions": "",
-                    "processors": "",
-                    "groups": "",
-                    "action": "Directional Slash",
-                    "isComposite": false,
-                    "isPartOfComposite": false
-                },
-                {
-                    "name": "",
-                    "id": "60968eea-5169-47cc-a448-9669287766d6",
-                    "path": "<Gamepad>/rightStick",
+                    "path": "<Mouse>/position",
                     "interactions": "",
                     "processors": "",
                     "groups": "",
